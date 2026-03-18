@@ -1,2 +1,3 @@
-# Usman-Tsado
-5-year sales analysis for a beverage distributor in Nigeria | Quadratic · Python · Data Visualization
+# Sales Data Analysis
+5-year sales analysis for a beverage distributor in Nigeria 
+Quadratic · Python · Data Visualization
